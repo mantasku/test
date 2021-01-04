@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/NVCSimuliacijos/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/NVCSimuliacijos/static/js/main.ed20aa35.chunk.js",
-    "main.js.map": "/NVCSimuliacijos/static/js/main.ed20aa35.chunk.js.map",
-    "runtime-main.js": "/NVCSimuliacijos/static/js/runtime-main.bf22fed1.js",
-    "runtime-main.js.map": "/NVCSimuliacijos/static/js/runtime-main.bf22fed1.js.map",
-    "static/js/2.dade9847.chunk.js": "/NVCSimuliacijos/static/js/2.dade9847.chunk.js",
-    "static/js/2.dade9847.chunk.js.map": "/NVCSimuliacijos/static/js/2.dade9847.chunk.js.map",
-    "static/js/3.734dbb67.chunk.js": "/NVCSimuliacijos/static/js/3.734dbb67.chunk.js",
-    "static/js/3.734dbb67.chunk.js.map": "/NVCSimuliacijos/static/js/3.734dbb67.chunk.js.map",
+    "main.css": "/NVCSimuliacijos/static/css/main.ad6886c1.chunk.css",
+    "main.js": "/NVCSimuliacijos/static/js/main.e65cfd76.chunk.js",
+    "main.js.map": "/NVCSimuliacijos/static/js/main.e65cfd76.chunk.js.map",
+    "runtime-main.js": "/NVCSimuliacijos/static/js/runtime-main.6c585eba.js",
+    "runtime-main.js.map": "/NVCSimuliacijos/static/js/runtime-main.6c585eba.js.map",
+    "static/css/2.6a4fca40.chunk.css": "/NVCSimuliacijos/static/css/2.6a4fca40.chunk.css",
+    "static/js/2.f86382c2.chunk.js": "/NVCSimuliacijos/static/js/2.f86382c2.chunk.js",
+    "static/js/2.f86382c2.chunk.js.map": "/NVCSimuliacijos/static/js/2.f86382c2.chunk.js.map",
     "index.html": "/NVCSimuliacijos/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/NVCSimuliacijos/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.dade9847.chunk.js.LICENSE.txt": "/NVCSimuliacijos/static/js/2.dade9847.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/NVCSimuliacijos/static/media/logo.6ce24c58.svg"
+    "static/css/2.6a4fca40.chunk.css.map": "/NVCSimuliacijos/static/css/2.6a4fca40.chunk.css.map",
+    "static/css/main.ad6886c1.chunk.css.map": "/NVCSimuliacijos/static/css/main.ad6886c1.chunk.css.map",
+    "static/js/2.f86382c2.chunk.js.LICENSE.txt": "/NVCSimuliacijos/static/js/2.f86382c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf22fed1.js",
-    "static/js/2.dade9847.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ed20aa35.chunk.js"
+    "static/js/runtime-main.6c585eba.js",
+    "static/css/2.6a4fca40.chunk.css",
+    "static/js/2.f86382c2.chunk.js",
+    "static/css/main.ad6886c1.chunk.css",
+    "static/js/main.e65cfd76.chunk.js"
   ]
 }
