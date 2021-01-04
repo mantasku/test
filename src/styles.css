@@ -1,0 +1,144 @@
+.color-nav {
+  background-color: #d1ecf1 !important;
+}
+@media (min-width: 1200px) {
+	.suspaustasIsdestimas {
+		column-count: 5;
+	}
+}
+@media (min-width: 600px) and (max-width: 1200px) {
+	.suspaustasIsdestimas {
+		column-count: 4;
+
+	}
+}
+@media (max-width: 600px) {
+	.suspaustasIsdestimas {
+		column-count: 2;
+	}
+}
+
+.options{
+}
+
+.poreikiai {
+  /* background-color: #fdf; */
+}
+
+/* Sumažina tarpus tarp skaiciu ir parastes */
+ol {
+  padding-left: 11px;
+ /* line-height: 0.7; */
+
+
+}
+div .pasirinktaPuse {
+  border: 4px  white;
+  opacity: 1.0;
+}
+.colorSelect {
+  border-radius: 4px;
+  opacity: 0.2;
+}
+
+.col {
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%;
+  color: #9b9b9b;
+
+}
+.hidden {
+  display: none;
+
+}
+ .pazymetas > li {
+  display: block !important;
+}
+.text    {
+  color: blue;
+}
+
+/* Mažinam teksto tarpus 1-2 žingsnyje */
+p.text  {
+  margin-bottom: 0.3em;
+}  
+
+.row {
+  justify-content: space-between;
+}
+
+.text  .col   {
+  color: #0e0e0f;
+}
+
+.column {
+  padding: 22px;
+
+}
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+
+
+nav {
+  z-index: 1; /*Add this*/
+}
+.puses {
+  display: inline-flex;
+  margin: 15px;
+  position: -webkit-sticky;
+position: sticky;
+top: 20px;
+
+} 
+
+.pusesElementas {
+  margin-right: 1em;
+} 
+
+
+body {
+  background: #ffffff;
+  color: #000000;
+}
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  margin: 4rem 10rem;
+}
+
+
+/* these make sure it can work in any text element */
+.inline-text_copy--active,
+.inline-text_input--active {
+  font: inherit;
+  color: inherit;
+  text-align: inherit;
+  padding: 0;
+  background: none;
+  border: none;
+  border-bottom: 1px dashed #999999;
+  outline: none;
+}
+
+.inline-text_copy--active {
+  cursor: pointer;
+}
+
+.inline-text_copy--hidden,
+.inline-text_input--hidden {
+  display: none;
+}
+
+.inline-text_input--active {
+  border-bottom: 1px solid #666666;
+  text-align: left;
+}
+
